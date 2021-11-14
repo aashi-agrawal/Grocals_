@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "massive-rock-332009",
+  "private_key_id": "b3e549b1b1fe982ed25afc493f70af6ec906abba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpzRyZBBeUUjAh\nsPhl93nQZcM/QzQOmD0ITQiFAo+lBT2GdR5frza1QPn1aEi3To2/uwY5yEN0FFf7\ngQGGIUpAIak+d5b9kK88NUWvtqPeZoGs66hwpUYOSmfVxsj9QOtUs3nYyOcJ8INP\n4dpkdWWb5OUox35p/nEc7doOIfu6DcRnf+LuUjdOSUMrn33RRoxYAjvU88PuC8Ub\nqqGbkKN/quiWBrxkPzxQ/Gk7r64BWu2S2vYzkciVWLRyu5PXwzH4uQt9LYyEJwlh\navUNt6OuFGrBxSq0a7G7R4iKhZl/USYfg89MQkl8p8UGvnIRZ8JJW4/YOH99vv48\no+m6JkO7AgMBAAECggEAULO3n9IeEtRtI9YkePIB51Y2Ud7y4uzgNQ3Hus/YzamL\n8FfBs+BmtAbJxiVmShj/rdyJvPS9enIgztwliUZRL+HPumzESod1gbwf/r9jatR1\nVWY7jC5A+ZHLgAMWi6dLMdqLUslJZaP2BQVm8tAJFurXL2aBYocX45P4SzdDmM0j\nbm2w+DMSo608eCz9McqvrJ0ra0vEnknf3eLWiWOKzJBVwegL1JBFa7KCW07R6NAB\nXXth8DtIbyDb/53amOmseijiFgCP6GTrdSxSG4829IgQI5Zy//uvbYMaa16hh32f\nnX/XKM1QphaIH0R/bCwql4hH7GOGtQLmHhDtsMxFQQKBgQDiRYDF4MD5hIO9FkVP\nQM9UqoMihyddBar+ue7hG/DxrHnvuOTDyV6ZIXadw9U674zkJ7mom3soV+G0XGqc\nF1AbsbyF/fabqiJiVVufmA/DltDB7yJgXRk8kSIP5Q/KjyIiRjtSf3KaUCnIEe7/\n2yfr1K5kNRdGEa/wHK+OIQGLkwKBgQDAHERalHy8mTc8/XCf3NYEj/evaKGhxT8o\nnXp9sa0B8PNYP+ATIV6ZbAOGpS2+2aNYxGnMRAyPhQYUsjIcz/bn02slFTPu+Eoe\niBmpnxFZ/p2qokFLOaWBatL82bkpl0NOczW11Vrdy78xzhQAfaACFXIp7BWo3W66\nvsAFtrcQOQKBgQCWqdzi5ZLZEil+IHQqH2duYtNKjF/jisCfOEMdVTOMWGIhAyYg\nT9dTc3q99gXnZlaUHPd8k3rgFBRPujGqmcNXjXOQbNhmMlUO0PNfQytL+wIqAAcN\nzy/cqm7Z0pY/NCtwUv9xITe4FKSdeYOAjfb5CvbL9qX2nBRgd1lV9BhJTQKBgCNU\nz4ltJ6ez8gHIhq8P+Vhrdd0PvDI5SY1ZsQ5u3+esfcSsMrSx/WjwAZIAzPH9qtoH\nfYGwvjKi/2RNBYRhBwLJ0jnGtX9ssIz+8OFOPO21MyAPqTyBhJvRnq4cCL7Kb/l8\nnNMtQwHpl+c8BFe2wve/I/jrz2v4FYZI0J38ZZyZAoGAC/KXNFabScprBTda7UBE\n4L8a5I1ZCf2XwcWvrvZQkxBVxPs2hfKsAioXZ43cGos3QuoZEOdazdfl5svjatQI\nEJgbLGJsU7OLu8QZ5hGhu27QsPbE5QL9WXwvtIgbKYVz15Lux3t+5GtvNvKKji0w\njGgJnGYrJyHy4J2+1fnWBA0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "grocalchatbot@massive-rock-332009.iam.gserviceaccount.com",
+  "client_id": "107263996001831057946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grocalchatbot%40massive-rock-332009.iam.gserviceaccount.com"
+}
